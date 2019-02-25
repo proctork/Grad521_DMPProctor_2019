@@ -22,14 +22,12 @@ Field climate data will be collected using climate stations (exact model and num
 Crop measurements will be collected manually and stored in csv format.
 Market values will be collected from online repositores (exact repository and format TBD) 
 
-All data listed above will be stored on the OSU Biological and Ecological Engineering (BEE) server using version control via TortoiseSVN software
-
-No data listed above contains personally sensitive information
-
 
 
 
 # Storage and security
+All data listed in the section above will be stored on the OSU Biological and Ecological Engineering (BEE) server using version control via TortoiseSVN software for the duration of the project. Thus two copies of the data will exist, one on a desktop harddrive and one on the department server. The data can remain on this server for the extent of the main authors doctoral process. Following completion of the doctorate, the data crucial to the project will be stored in the ScholarsArchive along with the thesis. At this point further determinations need to be made about external locations for storing this data.
+
 Using the university’s data classification system, sensitive data is data which should not be openly disclosed because it holds people’s personal, private information. For example, student data, or common identifiers like DOB. My research will not work with any sensitive data. There are no human subjects and a large portion of the data is publicly available (weather data, soil data from USGS, crop market prices) 
 
 # Access and data sharing
